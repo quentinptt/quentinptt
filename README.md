@@ -25,5 +25,3 @@
 [![quentinptt.github.io](https://img.shields.io/badge/-QUENTINPTT-000000?style=for-the-badge&logo=react&logoColor=white)](https://quentinptt.github.io)
 &nbsp;[![Hotmail](https://img.shields.io/badge/-OUTLOOK-0072C6?style=for-the-badge&logo=microsoft&logoColor=white)](mailto:quentin.abo@hotmail.com)
 <br><br>
-
-<br><br>
