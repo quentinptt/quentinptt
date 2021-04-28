@@ -1,4 +1,4 @@
-![test](https://i.imgur.com/Uhi4Nx5.jpg)
+![test](https://i.imgur.com/woJIxUj.jpg)
 
 🎓 Actuellement en première année de classe prépa - MPSI
 
