@@ -1,6 +1,6 @@
 ![test](https://i.imgur.com/woJIxUj.jpg)
 
-🎓 Actuellement en première année de classe prépa - MPSI
+🎓 Actuellement en école d'ingénieur à ISAE Paris
 
 ### 🤖 Langages :
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
