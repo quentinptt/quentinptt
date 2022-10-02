@@ -1,5 +1,3 @@
-![test](https://i.imgur.com/woJIxUj.jpg)
-
 🎓 Actuellement en école d'ingénieur à ISAE Paris
 
 ### 🤖 Langages :
