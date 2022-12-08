@@ -10,8 +10,6 @@
 &nbsp;![ARDUINO](https://img.shields.io/badge/-ARDUINO-0f8b91?style=for-the-badge&logo=ARDUINO&logoColor=white)
 &nbsp; &nbsp; 
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quentinptt&layout=compact&theme=onedark)](https://github.com/quentinptt/github-readme-stats&theme=dark)
-<br><br>
 ###  📚 Autres :
 ![Cinema4D](https://img.shields.io/badge/-Cinema4D-011A6A?style=for-the-badge&logo=CINEMA-4D&logoColor=white)
 &nbsp;![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white)
