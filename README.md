@@ -109,6 +109,10 @@
     <td align="center" width="96px"> 
       <img width="48px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/2560px-Scikit_learn_logo_small.svg.png">
     </td>
+    <td align="center" width="96px"> 
+      <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg">
+    </td>
+    
   </tr>
 </table>
 
