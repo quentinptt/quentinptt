@@ -1,7 +1,7 @@
 <h1 align="center">:wave: Hello there, I'm Quentin PETIT</h1>
 
 - 🎓 Currently in engineering school at **ISAE Paris**
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m learning **Machine Learning**
 
 ## Favorite Tech
 
