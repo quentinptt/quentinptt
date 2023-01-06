@@ -92,12 +92,6 @@
 <table>
   <tr>
     <td align="center" width="96px"> 
-      <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-    </td>
-    <td align="center" width="96px"> 
-      <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-    </td>
-    <td align="center" width="96px"> 
       <img width="48px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
     </td>
     <td align="center" width="96px"> 
