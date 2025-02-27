@@ -6,7 +6,7 @@ Future mobility engineer, eager to tackle today's transportation challenges.
 
 <img align="right" alt="GIF" src="illustration.gif" width="360px"/>
   
-### About:
+### 🧐 More About Me:
 
 - 🚆 &nbsp; I’m currently working for **Alstom**
 - 🌱 &nbsp; I’m currently learning propulsion simulation methods; 
@@ -20,5 +20,6 @@ Future mobility engineer, eager to tackle today's transportation challenges.
 ### 🔨 Languages and Tools:
 <a href="https://www.mathworks.com/products/matlab.html/" target="_blank"> <img align="left" src="assets/matlab.svg" alt="matlab" height="42px"/> </a> 
 <a href="https://www.python.org/" target="_blank"> <img align="left" src="assets/python.svg" alt="python" height="42px"/> </a> 
+<a href="https://cplusplus.com/" target="_blank"> <img align="left" src="assets/cpp.svg" alt="cpp" height="42px"/> </a> 
 <a href="https://www.3ds.com/fr/products/catia" target="_blank"> <img align="left" src="assets/catia.svg" alt="catia" height="42px"/> </a> 
 <a href="https://www.ansys.com/" target="_blank"> <img align="left" src="assets/ansys.svg" alt="ansys" height="42px"/> </a> 
