@@ -6,7 +6,7 @@ Future mobility engineer, eager to tackle today's transportation challenges.
 
 <img align="right" alt="GIF" src="illustration.gif" width="360px"/>
   
-### 🧐 More About Me:
+### About:
 
 - 🚆 &nbsp; I’m currently working for **Alstom**
 - 🌱 &nbsp; I’m currently learning propulsion simulation methods; 
